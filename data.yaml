@@ -1,0 +1,7 @@
+path: r"C:\Users\rayya\OneDrive\Desktop\drone_final"
+train: C:\Users\rayya\OneDrive\Desktop\drone_final\dataset\images\train
+val: C:\Users\rayya\OneDrive\Desktop\drone_final\dataset\images\val
+test: C:\Users\rayya\OneDrive\Desktop\drone_final\dataset\images\test
+
+nc: 5
+names: ['airplane', 'drone', 'helicopter', 'jet', 'bird']
