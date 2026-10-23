@@ -25,7 +25,7 @@ Intelligent Aerial Object Recognition and Detection Using YOLOv8
 
 # 📌 About the Project
 
-**AEROVEX AI** is a computer vision project that uses the YOLOv8 object detection framework to identify and classify aerial objects in visual data. It processes images, recorded videos, and live webcam feeds to recognize different categories of flying objects.
+**SkyGuard AI** is a computer vision project that uses the YOLOv8 object detection framework to identify and classify aerial objects in visual data. It processes images, recorded videos, and live webcam feeds to recognize different categories of flying objects.
 
 The system is designed to detect five classes: **drones, aeroplanes, helicopters, jets, and birds**. By applying deep learning techniques to visual inputs, the application identifies objects and displays their predicted classes, bounding boxes, and confidence scores.
 
