@@ -320,7 +320,7 @@ These are potential extensions rather than features claimed to be implemented in
 
 **Mohammed Khaleel Khan**
 
-Computer Science and Engineering
+Computer Science and Engineering |
 Artificial Intelligence | Machine Learning | Computer Vision
 
 ---
